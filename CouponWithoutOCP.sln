@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CouponWithoutOCP", "CouponWithoutOCP\CouponWithoutOCP.csproj", "{09588CE6-D401-4DD3-934A-8BDBBBCB951C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CouponWithOCP", "CouponWithOCP\CouponWithOCP.csproj", "{64DC39A5-C531-4C42-85A3-FF5CF9B0E121}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09588CE6-D401-4DD3-934A-8BDBBBCB951C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09588CE6-D401-4DD3-934A-8BDBBBCB951C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09588CE6-D401-4DD3-934A-8BDBBBCB951C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09588CE6-D401-4DD3-934A-8BDBBBCB951C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64DC39A5-C531-4C42-85A3-FF5CF9B0E121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64DC39A5-C531-4C42-85A3-FF5CF9B0E121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64DC39A5-C531-4C42-85A3-FF5CF9B0E121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64DC39A5-C531-4C42-85A3-FF5CF9B0E121}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0FB0137-A3A2-497A-97BE-3B3C09E5F28F}
+	EndGlobalSection
+EndGlobal
